@@ -22,7 +22,7 @@ This is a chance for you to show us how you think we should display our products
 
 ### Things to note
 
-* We want to see your understanding of JavaScript (including ES6 and ES7) so please stick to VanillaJS.
+* This is just a starting point. Feel free to use any framework or technology you want, but be prepared to answer why you selected them.
 * Aesthetics are very important to the Net-a-porter brand but so is performance.
 * Don't worry about header/footer.
 
